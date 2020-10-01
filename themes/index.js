@@ -227,6 +227,12 @@ const themes = {
     text_color: "ffffff",
     bg_color: "20232a",
   },
+  korea: {
+    title_color: "0045A1",
+    icon_color: "CE2A37",
+    text_color: "ffffff",
+    bg_color: "ffffff",
+  },
 };
 
 module.exports = themes;
