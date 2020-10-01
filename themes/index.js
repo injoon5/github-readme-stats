@@ -230,7 +230,7 @@ const themes = {
   korea: {
     title_color: "0045a1",
     icon_color: "ce2a37",
-    text_color: "ffffff",
+    text_color: "000000",
     bg_color: "ffffff",
   },
 };
