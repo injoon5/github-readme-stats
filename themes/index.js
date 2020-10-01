@@ -228,8 +228,8 @@ const themes = {
     bg_color: "20232a",
   },
   korea: {
-    title_color: "0045A1",
-    icon_color: "CE2A37",
+    title_color: "0045a1",
+    icon_color: "ce2a37",
     text_color: "ffffff",
     bg_color: "ffffff",
   },
